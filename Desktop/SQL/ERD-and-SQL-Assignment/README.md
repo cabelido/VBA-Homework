@@ -1,1 +1,0 @@
-# ERD-and-SQL-Assignment
